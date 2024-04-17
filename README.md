@@ -1,4 +1,4 @@
-## AdventureWorks
+# AdventureWorks
 A brief description of what this project does and who it's for
 
 Adventure Works Power BI Dashboard Welcome to the Adventure Works Power BI Dashboard repository! This project showcases a comprehensive Power BI solution for analyzing and visualizing data from the Adventure Works sample database. The Adventure Works database is a widely used dataset that represents a fictional bicycle manufacturing company, and this Power BI dashboard aims to provide actionable insights into various aspects of the business.
@@ -34,8 +34,13 @@ Snapshot of Dashboard (Power BI Service)
 
 2.Map :
 
+![map](https://github.com/SonaAnn/Power-BI/assets/11336104/4128524c-886c-4f6b-88e9-8e92696d9a3d)
 3.Product Detail :
 
+![Product Detail](https://github.com/SonaAnn/Power-BI/assets/11336104/382937de-e9d1-41b9-9bfa-ffeafa904d8f)
+
 4.Customer Detail :
+
+![Customer_detail](https://github.com/SonaAnn/Power-BI/assets/11336104/fce30907-5b89-4ce9-b332-7abb0dc16d4f)
 
 Customer Detail We hope this Power BI dashboard provides valuable insights into the Adventure Works dataset and serves as a useful reference for Power BI enthusiasts.
